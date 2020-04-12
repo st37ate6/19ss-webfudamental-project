@@ -2,8 +2,8 @@
 =  
 19302010086刘亘恺  
 =
-github地址：<https://github.com/st37ate6/SOFT130002_lab>  
-github pages地址：<https://st37ate6.github.io/SOFT130002_lab/>
+github地址：<https://github.com/st37ate6/19ss-webfudamental-project>  
+github pages地址：<https://st37ate6.github.io/19ss-webfudamental-project/>
 ***
 项目完成情况:
 -  
